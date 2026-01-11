@@ -6,7 +6,7 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate **Full-Stack Developer** based in Nigeria 🇳🇬, specializing in building scalable web applications, mobile apps, and maintaining production systems used by thousands of users daily. I love turning ideas into reality through clean code and intuitive design.
 
@@ -14,7 +14,7 @@ I'm a passionate **Full-Stack Developer** based in Nigeria 🇳🇬, specializin
 - 🎯 Focused on creating impactful digital solutions
 - 📱 Published mobile apps on both iOS and Android
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -39,26 +39,6 @@ I'm a passionate **Full-Stack Developer** based in Nigeria 🇳🇬, specializin
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-## 💼 Featured Projects
-
-### 🎓 University Portals
-- **[Covenant University SIS Portal](https://sisccodel.covenantuniversity.edu.ng/)** - Student Information System serving thousands of students
-
-### 📱 Mobile Applications
-- **[VosCard - Smart Business Card](https://apps.apple.com/ng/app/voscard-smart-business-card/id6740918907)** - Digital business card solution (iOS)
-- **[InvoiceHack](https://play.google.com/store/apps/details?id=com.invoicehack.app)** - Invoice management system (Android)
-
-### 🌐 Client Websites (Currently Maintained)
-- **kasinstitute.org** - Educational institution
-- **cairomn.org & cairopdx.org** - Non-profit organizations
-
-## 🌟 What I Bring to the Table
-
-✅ **Production Experience** - Built and maintained systems serving 10,000+ users  
-✅ **Full-Stack Expertise** - Frontend, Backend, and Mobile  
-✅ **Quality Code** - Clean, maintainable, and scalable solutions  
-✅ **Problem Solver** - Quick troubleshooting and proactive maintenance  
-✅ **Team Player** - Great communication and collaboration skills  
 
 ## 📫 Let's Connect!
 
