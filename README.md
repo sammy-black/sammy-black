@@ -8,11 +8,11 @@
 
 ## About Me
 
-I'm a passionate **Full-Stack Developer** based in Nigeria 🇳🇬, specializing in building scalable web applications, mobile apps, and maintaining production systems used by thousands of users daily. I love turning ideas into reality through clean code and intuitive design.
+I'm a **Full-Stack Developer** based in Nigeria 🇳🇬, specializing in building scalable web applications, mobile apps, and maintaining production systems used by thousands of users daily. I love turning ideas into reality through clean code and intuitive design.
 
-- 🔭 Currently maintaining multiple production websites and university portals
-- 🎯 Focused on creating impactful digital solutions
-- 📱 Published mobile apps on both iOS and Android
+- Currently maintaining multiple production websites and university portals
+- Focused on creating impactful digital solutions
+- Published mobile apps on both iOS and Android
 
 ## Tech Stack
 
